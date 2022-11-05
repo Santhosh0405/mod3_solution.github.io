@@ -1,3 +1,3 @@
 # mod3_solution.github.io
 cousera course:html,css and javascript
-to see output
+to see output [click this](https://github.com/Santhosh0405/mod3_solution.github.io/blob/main/index.html)
